@@ -2,7 +2,7 @@
 
 ![](./Project_Reports/Images/ECE_196_Algae_Neutralizing_Agent_Poster.png) 
 
-## Problem Definition:
+## Problem Definition 
 Algae blooms can release toxins into the water and be deadly to the plant, animal, and human life that depends on that water supply. This can affect large bodies of water such as oceans and lakes, however, this issue also affects public water spaces like pools and reserves. 
 
 In this project we developed a small scale solution that works in commerical pools, with hopes of eventually evolving into larger bodies of water. 
